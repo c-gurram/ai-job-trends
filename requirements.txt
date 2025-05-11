@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+wordcloud
+transformers
+nltk
+PyPDF2
+faiss-cpu
+langchain
+langchain-community
